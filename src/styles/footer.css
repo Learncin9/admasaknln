@@ -1,0 +1,9 @@
+.footer {
+    width: 90%;
+    margin: auto;
+}
+
+.footer__info {
+    display: flex;
+    justify-content: space-between;
+}
